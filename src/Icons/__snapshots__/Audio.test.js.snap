@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Audio should render with title, description, image, etc. 1`] = `
+<div
+  className="Audio"
+>
+  <div
+    className="audio-image"
+  >
+    <img
+      alt="Play Audio"
+      src="icon-speaker.png"
+    />
+  </div>
+  <div
+    className="audio-text"
+  >
+    Audio Available
+  </div>
+  <div
+    className="star-container"
+  >
+    <img
+      alt=""
+      src="icon-star.svg"
+    />
+  </div>
+</div>
+`;

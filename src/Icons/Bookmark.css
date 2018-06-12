@@ -1,0 +1,9 @@
+.Article-bookmark-container {
+    height: 25px;
+    width: 25px;  
+}
+
+.Article-bookmark-container img {
+    height: auto;
+    width: 90%;  
+}

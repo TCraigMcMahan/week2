@@ -1,0 +1,31 @@
+.Audio {
+    display: flex;
+    flex-wrap: nowrap;
+    color: gray;
+    font-weight: 500;
+    height: 20px;
+    max-height: 20px;
+    width: 224px;
+    max-width: 224px;
+    padding-bottom: 10px;
+}
+
+.audio-text {
+    font-size: 0.75em;
+    text-align: left;
+    padding-right: 75px;
+}
+
+.audio-image {
+    padding-right: 10px;
+}
+
+.star-container {
+    height: 20px;
+    width: 20px;
+}
+
+.star-container img {
+    height: auto;
+    width: 65%;
+}

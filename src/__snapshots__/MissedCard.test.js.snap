@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MissedCard should render with title, description, image, etc. 1`] = `
+<div
+  className="Missed-row"
+>
+  <div
+    className="missedUpperScreen"
+  >
+    <img
+      alt=""
+      className="Missed-Card-img"
+      src="https://cdn-images-1.medium.com/max/800/1*cioT9CBBV2s0svet9LqKZA.png"
+    />
+    <div
+      className="missedTitleStyle"
+    >
+       
+      Do Something You Can't Win At
+       
+    </div>
+    <br />
+    <div
+      className="missedDescriptionStyle"
+    >
+      And make it something you love
+    </div>
+  </div>
+  <div
+    className="missedAuthorInfo"
+  >
+    <div>
+      <img
+        alt=""
+        className="Author-img"
+        src="https://cdn-images-1.medium.com/fit/c/80/80/1*e7o4kbk8ofT6eKaLrO0jaw.png"
+      />
+    </div>
+    <div
+      className="authorInfo-namedate"
+    >
+      <div
+        className="authorNameStyle"
+      >
+        Kris Gage
+      </div>
+      <div
+        align="left"
+      >
+         
+        Mar 30
+         - 
+        3
+         min read
+      </div>
+    </div>
+    <div
+      className="bookmarkContainer"
+    >
+      <img
+        alt="Bookmark"
+        className="bookmarkStyle"
+        src="icon-bookmark.svg"
+      />
+    </div>
+  </div>
+</div>
+`;
